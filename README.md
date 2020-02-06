@@ -1,1 +1,1 @@
-THIS IS A JavaScript LEARNING PROJECT 
+This is a javascript learning project
